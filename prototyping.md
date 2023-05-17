@@ -12,9 +12,17 @@ Figma Prototype:
 
 ### UI Changes:
 
-##
 
-## <img src=".gitbook/assets/image.png" alt="" data-size="line"> -> <img src=".gitbook/assets/image (1).png" alt="" data-size="line">&#x20;
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/image.png" alt="" width="146"><figcaption><p>Wireframe main menu</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/image (1).png" alt="" width="375"><figcaption><p>HighFidelity Main menu</p></figcaption></figure>
+
+</div>
 
 
 
