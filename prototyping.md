@@ -18,21 +18,43 @@ Improvement: We changed this to include an image icon alongside an image used as
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (1).png" alt="" width="146"><figcaption><p>Wireframe main menu</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="146"><figcaption><p>Wireframe main menu</p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption><p>HighFidelity Main menu</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption><p>HighFidelity Main menu</p></figcaption></figure>
 
 </div>
 
-2: There was interactive components missing prior to going into HighFidelity.
+2: There was interactive components missing in our translate page.
 
 Improvement: We added a functional Facade that let users see how the webpage was navigated, for our Tranlate webpage, we added interaction where onclick on language gave english and Spanish, clicking in the box under language put in Hello in english, where submit reveals the Spanish translation result.
 
 <div align="left">
 
+<figure><img src=".gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
+
+3: The interactive components missing in our Image-text page.
+
+Improvement: Added 2-step procedure for uploading an image, which shows a folder, then clicking anywhere on there loads an image of a dog.  From here you can choose a language, which goes to Spanish, the submit button gives the translation.
+
+<div align="left">
+
 <figure><img src=".gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
