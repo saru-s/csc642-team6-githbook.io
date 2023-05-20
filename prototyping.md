@@ -46,7 +46,7 @@ Improvement: Added 2-step procedure for uploading an image, which shows a folder
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
@@ -54,11 +54,65 @@ Improvement: Added 2-step procedure for uploading an image, which shows a folder
 
  
 
-<figure><img src=".gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
 <figure><img src=".gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
+
+4: The interactive components missing in our Document translation page.
+
+Improvement: Added interactive components to make it feel like you're uploading a document, selecting a language to translate it into, and downloading the file.  From there you can click on the downloaded file to open up the document, clicking on the document will exit it out, and clicking on the X button on bottom right will close downloaded files pop-up footer.
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/image (12).png" alt="" width="375"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
+
+5: Interactive component wasn't quite there for text to speech page.
+
+Improvement: Added basic interaction so that you can select language, and clicking on the input box will create "How are you", clicking submit will bring up the translation.  We also added a play button which when clicked shows a sound wave which changes a couple times to show that the 'sound' is played.
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/image (11).png" alt="" width="188"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/image (9).png" alt="" width="188"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/image (1).png" alt="" width="188"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/image (6).png" alt="" width="188"><figcaption></figcaption></figure>
 
 </div>
 
