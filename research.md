@@ -20,9 +20,9 @@ Our survey questions were:
 
 There were 10 voluntary participants who completed our survey. In this project, we chose Affinity Diagram to analyze our collected data.&#x20;
 
-First, all data were collected and common themes among data were identified.&#x20;
+First, all data were collected and common themes among data were identified.                                                                          <img src=".gitbook/assets/Screenshot 2023-05-23 at 8.03.12 PM.png" alt="" data-size="original"> ![](<.gitbook/assets/Screenshot 2023-05-23 at 8.16.55 PM.png>)![](<.gitbook/assets/Screenshot 2023-05-23 at 8.16.22 PM.png>)
 
-![](<.gitbook/assets/Screenshot 2023-05-23 at 8.03.12 PM.png>)  ![](<.gitbook/assets/Screenshot 2023-05-23 at 8.04.28 PM.png>)
+&#x20; ![](<.gitbook/assets/Screenshot 2023-05-23 at 8.13.21 PM.png>)       ![](<.gitbook/assets/Screenshot 2023-05-23 at 8.11.14 PM.png>)
 
 we were able to get ten volunteers to take our survey.  After looking through the responses, we used the Affinity Diagram method to analyze the data that we collected and identified common themes and subgroups within our data. We started by grouping the responses together based on the questions, then we found common responses across the questions so we grouped them together to create some themes that we found that popped up a lot. We sectioned each theme and decided to dig deeper. We noticed that the responses within these themes were all related but some were very similar to each other so we created subgroups within the themes. Through our research, we found that language barriers exist in many forms of communication, including low language proficiency and other factors such as accents. We also discovered that existing tools, such as Google Translate, are not always effective in connecting communication gaps. The research was conducted to explore language barriers and their impact on communication in different contexts.
 
