@@ -2,7 +2,7 @@
 
 * [Pitch](README.md)
 * [Problem](problem.md)
-* [Findings](findings.md)
+* [Research](research.md)
 * [Wireframe](wireframe.md)
 * [Prototyping](prototyping.md)
 * [Future Plans](future-plans.md)
