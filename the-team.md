@@ -15,3 +15,5 @@ Hello! My name is Leo Saeteurn. I am a senior at San Francisco State University 
 Hi there! I am Saru Shrestha. This is my last semester at San Francisco State University. Looking forward to wrap up the semester with great projects.
 
 ## Jonathan Valadez
+
+Yo! I'm Jonathan Valadez. I learned a lot from this class, this is also my last semester at San Francisco State University! I've had a great time collaborating here with the people in this project and I wish the best for everyone.
