@@ -1,3 +1,7 @@
+---
+description: Introduction of the research and design team.
+---
+
 # The Team
 
 ## Issa Shihadeh
