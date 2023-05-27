@@ -1,3 +1,7 @@
+---
+description: Furthering the research and design.
+---
+
 # Future Plans
 
 With our product "Translator", we've been able to create a system that assists people with different instances of translation usage. Our product provides a diverse set of functionality to help people; however, there is still room to grow.&#x20;
