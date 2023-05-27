@@ -1,3 +1,9 @@
+---
+description: >-
+  Reaching out to those who faced language barrier in different situations to
+  find out more about the problem and any new situations we haven't thought of.
+---
+
 # Research
 
 ## Data Collection
