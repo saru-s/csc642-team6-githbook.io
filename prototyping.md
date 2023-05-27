@@ -46,7 +46,7 @@ Improvement: Added 2-step procedure for uploading an image, which shows a folder
 
  
 
-<figure><img src=".gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
@@ -54,7 +54,7 @@ Improvement: Added 2-step procedure for uploading an image, which shows a folder
 
  
 
-<figure><img src=".gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
