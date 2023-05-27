@@ -22,11 +22,17 @@ There were 10 voluntary participants who completed our survey. In this project, 
 
 First, all data were collected and common themes among data were identified.                            &#x20;
 
-&#x20;      ![](<.gitbook/assets/Screenshot 2023-05-23 at 8.18.47 PM (2).png>)          ![](<.gitbook/assets/Screenshot 2023-05-23 at 8.16.22 PM.png>)
+&#x20;               &#x20;
+
+<figure><img src=".gitbook/assets/Screenshot 2023-05-23 at 8.16.22 PM.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/Screenshot 2023-05-23 at 8.18.47 PM (2).png" alt=""><figcaption></figcaption></figure>
 
 Then, after observing common themes, we sectioned each theme and dug deeper. We noticed that the responses within these themes were all related but some were very similar to each other so we created subgroups within the themes.&#x20;
 
-&#x20;                                       ![](<.gitbook/assets/Screenshot 2023-05-23 at 8.26.40 PM.png>)
+&#x20;                                      &#x20;
+
+<figure><img src=".gitbook/assets/Screenshot 2023-05-23 at 8.26.40 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## Findings
 
