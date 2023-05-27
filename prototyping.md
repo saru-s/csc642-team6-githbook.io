@@ -1,3 +1,9 @@
+---
+description: >-
+  The final prototype design after referencing our low-level prototype
+  wireframe.
+---
+
 # Prototyping
 
 ## Figma Prototype
