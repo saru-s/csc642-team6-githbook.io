@@ -2,6 +2,8 @@
 
 ## Issa Shihadeh
 
+I am Issa Shihadeh, This is my last semester here at sfsu, looking forward to celebrating this millstone, reflecting on my accomplishments, and setting new goals for the future. I'm also Excited about exploring new opportunities and what the future holds.
+
 ## Christopher Ling
 
 This is my last semester at San Francisco State University.  It's funny knowing I finished all my classes using a 2010 HDD dual core laptop the whole way through.
